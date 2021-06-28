@@ -1,0 +1,51 @@
+.heard-zhuce{
+    width: 100%;
+
+}
+.zhece-bar{
+    width: 980px;
+    height: 50px;
+    /* background-color: orangered; */
+    border-bottom: 1px solid #ccc;
+    margin: 0 auto;
+}
+.zhece-bar img{
+    width: 128px;
+    height: 36px;
+    margin-top: 6px;
+}
+.bar-r-zc{
+    float: right;
+    margin-top: 15px;
+}
+.bar-r-zc span{
+    width: 35px;
+    height: 25px;
+    background-color: orange;
+    border: 1px solid orange;
+}
+.zhece-cen{
+    width: 980px;
+    height: 300px;
+    /* background-color: orchid; */
+    margin: 10px auto;
+    border-bottom: 1px solid #ccc;
+}
+.one-zhece{
+margin-top: 30px;
+margin-left: 15px;
+}
+.one-zhuce1{
+margin-left: 32px;
+}
+.zzz{
+    margin-left: 51px;
+    margin-bottom: 15px;
+}
+.zhuce{
+    width: 150px;
+    margin-top: 15px;
+    height: 35px;
+    margin-left: 85px;
+    background-color: orange;
+}

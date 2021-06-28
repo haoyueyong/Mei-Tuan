@@ -1,0 +1,71 @@
+.minsu {
+    width: 1190px;
+    height: 650px;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.minsu-bar{
+    width: 1190px;
+    height: 50px;
+    background-color: rgb(242,191,71);
+    border-top-left-radius:0.5em;
+    border-top-right-radius:0.5em;
+    position: relative;
+}
+.minsu-bot{
+    width: 1190px;
+    /* height: 240px; */
+    background-color: cadetblue;
+}
+.minsu-bot ul li{
+    width: 360px;
+    height: 295px;
+    float: left;
+    margin-right: 19px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin-left: 17px;
+    margin-top: 10px;
+}
+.minsu-bot ul li img{
+   width: 100%;
+}
+.minsu-bar ul li{
+    float: left;
+    line-height: 50px;
+    margin-right: 15px;
+}
+.kailongx{
+	width:0;
+    height:0;
+	border-right:10px solid transparent;
+	border-left:10px solid transparent;
+	border-bottom:10px solid rgb(248,248,248);
+    position: absolute;
+    bottom: 0px;
+    left: 106px;
+}
+.bianziti{
+    font-family: "MFShangHei-Regular";
+    font-size: 18px;
+    margin-left: 15px;
+}
+.title-tt{
+    font-size: 16px;
+    color: #222222;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 7px 0;
+    font-weight: 400;
+    width: 297px;
+    text-align: left;
+}
+.tbt{
+    font-size: 18px;
+    text-align: left;
+    color: orange;
+}
+

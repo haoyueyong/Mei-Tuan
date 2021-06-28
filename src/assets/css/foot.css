@@ -1,0 +1,72 @@
+.foot{
+    width: 1190px;
+    height: 900px;
+    margin: 34px auto;
+    /* background-color: #fff; */
+
+}
+.aba{
+    width: 1190px;
+    height: 270px;
+    text-align: left;
+    background-color: #fff;
+}
+.aba h3{
+    line-height: 55px;
+    margin-left: 25px;
+    font-size: 18px;
+}
+.cty li{
+    float: left;
+    display: block;
+    width: 100px;
+    cursor: pointer;
+    color: #666666;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.cay{
+    float: left;
+}
+.cay li{
+    margin-left: 25px;
+    margin-right: 21px;
+    
+}
+.cty li:hover{
+    color: orange;
+}
+.alk{
+    margin-top: 20px;
+}
+.alkj{
+    margin-top: 20px;
+}
+.har{
+    margin-top: 60px;
+    width: 1075px;
+    margin-left: 110px;
+}
+.cay-b{
+    margin-top: 73px;
+}
+
+.cay-d{
+    margin-top: 75px;
+
+}
+.cty-a li{
+    margin-top: 5px;
+}
+.foot-bom{
+    width: 1190px;
+    margin: 50px auto;
+}
+.foot-bom img{
+    width: 100%;
+    border-top: 1px solid #ccc;
+}

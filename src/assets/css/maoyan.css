@@ -1,0 +1,53 @@
+.maoyan {
+    width: 1190px;
+    height: 300px;
+    /* background-color: blueviolet; */
+    margin: 0 auto;
+    margin-top: -20px;
+}
+.maoyan-bar{
+    width: 1190px;
+    height: 50px;
+    background-color: rgb(252,65,91);
+    border-top-left-radius:0.5em;
+    border-top-right-radius:0.5em;
+    position: relative;
+}
+.maoyan-bot{
+    width: 1190px;
+    /* height: 240px; */
+    background-color: cadetblue;
+}
+.maoyan-bot ul li{
+    height: 29px;
+    width: 200px;
+    float: left;
+    margin-right: 19px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin-left: 19px;
+    margin-top: 10px;
+}
+.maoyan-bot ul li img{
+   width: 100%;
+}
+.maoyan-bar ul li{
+    float: left;
+    line-height: 50px;
+    margin-right: 15px;
+}
+.kailong{
+	width:0;
+    height:0;
+	border-right:10px solid transparent;
+	border-left:10px solid transparent;
+	border-bottom:10px solid rgb(248,248,248);
+    position: absolute;
+    bottom: 0px;
+    left: 20px;
+}
+.bianziti{
+    font-family: "MFShangHei-Regular";
+    font-size: 18px;
+}

@@ -1,0 +1,72 @@
+.like {
+    width: 1190px;
+    height: 770px;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.like-bar{
+    width: 1190px;
+    height: 50px;
+    background-color: rgb(78,183,213);
+    border-top-left-radius:0.5em;
+    border-top-right-radius:0.5em;
+    position: relative;
+}
+.like-bot{
+    width: 1190px;
+    /* height: 240px; */
+    background-color: cadetblue;
+}
+.like-bot ul li{
+    width: 212px;
+    height: 225px;
+    float: left;
+    margin-right: 19px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin-left: 55px;
+    margin-top: 15px;
+}
+.like-bot ul li img{
+   width: 100%;
+   border: 1px solid #ccc;
+}
+.like-bar ul li{
+    float: left;
+    line-height: 50px;
+    margin-right: 15px;
+}
+.kailongxin{
+	width:0;
+    height:0;
+	border-right:10px solid transparent;
+	border-left:10px solid transparent;
+	border-bottom:10px solid rgb(248,248,248);
+    position: absolute;
+    bottom: 0px;
+    left: 156px;
+}
+.bianziti{
+    font-family: "MFShangHei-Regular";
+    font-size: 18px;
+    margin-left: 15px;
+}
+.title-tt{
+    font-size: 16px;
+    color: #222222;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 7px 0;
+    font-weight: 400;
+    width: 297px;
+    text-align: left;
+}
+.tbt{
+    font-size: 18px;
+    text-align: left;
+    color: orange;
+}
+

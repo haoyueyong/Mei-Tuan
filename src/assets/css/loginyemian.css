@@ -1,0 +1,86 @@
+.log-heard{
+    width: 100%;
+    /* height: 800px; */
+    /* background-color: darkkhaki; */
+}
+.heard-login-bar{
+    width: 980px;
+    height: 500px;
+    /* background-color: red; */
+    margin: 30px auto;
+}
+.img-login{
+    width: 480px;
+    height: 370px;
+}
+.heard-login-cen{
+    float: left;
+}
+.login-cen-left{
+    width: 600px;
+    height: 370px;
+    float: left;
+}
+.login-cen-right{
+    width: 380px;
+    height: 370px;
+    background-color: #fff;
+
+    float: left;
+    /* padding: 15px; */
+}
+.yonghu{
+    width: 240px;
+    height: 30px;
+    background-color: #fff;
+    border: 1px solid rgb(102,102,102);
+    margin-top: 70px;
+    margin-left: 70px;
+    outline: none;
+}
+.mima{
+    width: 240px;
+    height: 30px;
+    background-color: #fff;
+    border: 1px solid rgb(102,102,102);
+
+    margin-top: 20px;
+    margin-left: 70px;
+    outline: none;
+
+}
+.dengl{
+    width: 245px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 70px;
+    background-color: orange;
+    outline: none;
+}
+.tishi{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.tishi span{
+    color: orange;
+    cursor: pointer;
+}
+.heard-login-fot{
+    width: 980px;
+    height: 50px;
+    /* background-color: orangered; */
+    margin-top: 450px;
+}
+.heard-login-fot ul li{
+    float: left;
+    line-height: 35px;
+    color: rgb(102,102,102);
+    font-size: 13px;
+}
+.heard-login-fot ul li span{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.hr-login{
+    margin-top: 45px;
+}
